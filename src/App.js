@@ -1,5 +1,5 @@
 
-import './App.css';
+import './index.css';
 import { Search, MapPin, Briefcase, Clock, Filter } from 'lucide-react'
 
 function App() {
